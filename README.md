@@ -114,8 +114,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelaavelin
 
 ## 🌎 Vamos nos conectar?
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN/
-- 📧 E-mail: seuemail@email.com
+- 💼 LinkedIn: www.linkedin.com/in/angela-avelina-70586041b
+- 📧 E-mail: angelaavelina8@gmail.com
 
 ---
 
