@@ -15,7 +15,7 @@ Atualmente desenvolvo projetos utilizando **Python**, **Inteligência Artificial
         />
     </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="www.linkedin.com/in/angela-avelina-70586041b">
         <img
             alt="LinkedIn"
             title="LinkedIn"
