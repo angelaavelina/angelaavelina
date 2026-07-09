@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Angela Avelina
+# ​👩🏽‍💻​ Angela Avelina
 
 **`Data Analyst | Python Automation | Artificial Intelligence`**
 
